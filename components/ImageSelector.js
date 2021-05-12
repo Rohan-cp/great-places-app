@@ -56,7 +56,6 @@ const styles = StyleSheet.create({
   imagePreview: {
     width: '100%',
     height: 200,
-    marginBottom: 10,
     justifyContent: 'center',
     alignItems: 'center',
     borderColor: '#ccc',
@@ -67,7 +66,7 @@ const styles = StyleSheet.create({
     height: '100%',
   },
   buttonContainer: {
-    margin: 15,
+    margin: 10,
   }
 });
 
